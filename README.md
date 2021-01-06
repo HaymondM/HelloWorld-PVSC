@@ -5,7 +5,7 @@
 This is a Hello World program. I made this to show how to to VScode, Github, and Python
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+Watch a sample video here:[ Hello World in python](https://youtu.be/7a715DkuePE)
 
 # Development Environment
 
@@ -16,6 +16,5 @@ This is a Hello World program. I made this to show how to to VScode, Github, and
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [VS Code and GitHub](https://code.visualstudio.com/docs/editor/github)
 * [Python Language Reference](https://docs.python.org/3.7/reference/index.htmle)
